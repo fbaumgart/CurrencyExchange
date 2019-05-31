@@ -1,0 +1,9 @@
+D:\Studia\Informatyka\3 semestr\zaawansowane progr obiektowe\zad dom\konwerter walut\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+D:\Studia\Informatyka\3 semestr\zaawansowane progr obiektowe\zad dom\konwerter walut\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+D:\Studia\Informatyka\3 semestr\zaawansowane progr obiektowe\zad dom\konwerter walut\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+D:\Studia\Informatyka\3 semestr\zaawansowane progr obiektowe\zad dom\konwerter walut\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csprojResolveAssemblyReference.cache
+D:\Studia\Informatyka\3 semestr\zaawansowane progr obiektowe\zad dom\konwerter walut\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.Form1.resources
+D:\Studia\Informatyka\3 semestr\zaawansowane progr obiektowe\zad dom\konwerter walut\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.Properties.Resources.resources
+D:\Studia\Informatyka\3 semestr\zaawansowane progr obiektowe\zad dom\konwerter walut\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.GenerateResource.Cache
+D:\Studia\Informatyka\3 semestr\zaawansowane progr obiektowe\zad dom\konwerter walut\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+D:\Studia\Informatyka\3 semestr\zaawansowane progr obiektowe\zad dom\konwerter walut\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.pdb
